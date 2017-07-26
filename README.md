@@ -1,5 +1,8 @@
 The LOIC tool- Jerusalem Electronic Army version
 
+## Download Binary
+
+https://github.com/ajearmy/LOIC-JEARMY/raw/ajearmy-binary/LOIC-JEARMY.zip
 ## INFO
 
 Low Orbit Ion Cannon - An open source network stress tool, written in C#.

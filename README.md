@@ -1,7 +1,7 @@
 The LOIC tool- Jerusalem Electronic Army version
 
 ## Download Binary
-
+لتحميل الاداة
 https://github.com/ajearmy/LOIC-JEARMY/raw/ajearmy-binary/LOIC-JEARMY.zip
 ## INFO
 
